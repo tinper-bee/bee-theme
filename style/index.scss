@@ -1,0 +1,18 @@
+@import "../theme/minxin-colors";
+@import "../theme/minxin-themeColors";
+@import "../theme/minxin-variables";
+@import "../node_modules/tinper-bee-core/scss/minxin-mixins";
+
+
+// 全局设置类文件
+@import "../node_modules/tinper-bee-core/scss/set-normalize";
+@import "../node_modules/tinper-bee-core/scss/set-global";
+
+
+
+// 工具类文件
+@import "../icon/util-iconfont";
+
+@import "../node_modules/tinper-bee-core/scss/util-shadow";
+
+@import "./components.scss";

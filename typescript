@@ -1,0 +1,32 @@
+Script started on Mon Nov  6 16:03:37 2017
+[?1034hbash-3.2$ cd scri[K[K[K[K[K[K[K
+bash-3.2$ cd ~\
+> 
+bash-3.2$ cd ~\[K
+bash-3.2$ cd [K[K[K~
+bash: /Users/alex: is a directory
+bash-3.2$ alx[Kex
+bash: alex: command not found
+bash-3.2$ cd work/
+bash-3.2$ cd yonyou/
+bash-3.2$ cd tinper/
+bash-3.2$ ls
+bee-clipboard		bee-locale		bee-table		bee-tools		tinper-bee
+bee-datepicker		bee-modal		bee-tabs		bee-tools-test		tinper-bee-overview
+bee-dnd			bee-overlay		bee-theme		bee-tooltip
+bee-form		bee-popconfirm		bee-timeline		node_modules
+bee-loading		bee-popover		bee-timepicker		test
+bash-3.2$ cd bee-theme/
+bash-3.2$ ls
+LICENSE		bin		node_modules	style		typescript
+README.md	icon		package.json	theme
+bash-3.2$ mkdi[K[K[K[Kmkdir script
+bash-3.2$ c [K[Kcd script/
+bash-3.2$ touh[Kc [Kh index.js
+bash-3.2$ cd [K[K[Kls -t
+index.js
+bash-3.2$ cd ..
+bash-3.2$ ls -t
+script		bin		theme		node_modules	LICENSE
+typescript	style		icon		package.json	README.md
+bash-3.2$ 
